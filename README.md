@@ -28,6 +28,8 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 * Mongoose
 
 ## Demo
+* Part One: https://drive.google.com/file/d/1-xOYarJUkwvkckdyrU1qrJtJeUUPtw_y/view
+* Part Two: https://drive.google.com/file/d/1uwLnc6L6cc-ndrEfe5VxaiepDmNA7uLT/view
 
 ## Contributions
 Made with ❤️️ by Tamara Wilhite
